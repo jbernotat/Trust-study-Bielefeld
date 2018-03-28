@@ -1,21 +1,26 @@
 # Trust-study-Bielefeld
 
 Trust in HRI, Study I
+
 Hypotheses
+
 Hypotheses to check manipulation:
 1.	A low robot failure rate results in lower levels of cognitive trust.
 2.	A low physical distance goes along with a greater level of affective trust. 
+
 Main-Hypotheses
 3.	A high robot failure rate lowers the extent of cognitive trust. 
 a.	This effect is even more pronounced the more the robots’ performance is reliable.
 4.	An anthropomorphic robot reveals more affective trust, compared to an industrial robot.
 a.	This effect is even more pronounced the more the robots’ performance is reliable.
+
 Interaction-Hypotheses
-5.	The cognitive trust in an industrial robot will be lowered more, than the affective trust if the robot’s performance is not reliable.
-6.	The affective trust in an anthropomorphic robot will be lowered more than the cognitive trust if the robot’s performance is not reliable.
-7.	The loss of affective and cognitive trust in an anthropomorphic robot is not as big as the loss of both dimensions in an industrial robot if the robot’s performance is not reliable.
+5.	The cognitive trust in an industrial robot will be lowered more, than the affective trust if the robot’s performance is not 		reliable.
+6.	The affective trust in an anthropomorphic robot will be lowered more than the cognitive trust if the robot’s performance is not 	reliable.
+7.	The loss of affective and cognitive trust in an anthropomorphic robot is not as big as the loss of both dimensions in an 		industrial robot if the robot’s performance is not reliable.
 
 Methods
+
 Design
 A 2 (robot type: anthropomorphic vs. industrial) x 2 (failure rate: high vs. low) between-subjects design will be realized.
 Procedure
@@ -25,58 +30,61 @@ Vignettes (see file attached)
 
 Material Tobi: Laptops GE 04 und GE 02 (GE 02 ist austauschbar)
 Material PEPPER: GE 02 (austauschbar) und PEPPER Laptop und Router
-1.	Aufbau allgemein
- 
-Bild 1 Robot and game (when entering the room)
- 
-Bild 3 Robot and game (as the VP sees it)
 
+1. Construction in general
  
-Bild 3 game and vignette
+Picture 1 Robot and game (when entering the room)
  
-Bild 4 guestionaire
+Picture 2 Robot and game (as the VP sees it)
+
+Picture 3 game and vignette
+ 
+Picture 4 position of the guestionaire
 
 2.	Videos in the CSRA Apartment
  
-Bild 1. Open the program for the trust-study (CSRA Apartment main computer)
+Picture 5 Open the program for the trust-study (CSRA Apartment main computer)
   
-Bild 2+3 this is how the vimeo controller looks like
+Picture 6 and 7 this is how the vimeo controller looks like
  
-Bild 4 if there is a study running before you start, end all the study’s components do not end all the components with a “b_” in the beginning 
+Picture 8 if there is a study running before you start, end all the study’s components do not end all the components with a “b_” in the beginning 
  
-Bild 5 start all the study’s components
+Picture 9 start all the study’s components
 
  
-Bild 6 look if all the components of the study are green
+Picture 10 look if all the components of the study are green
  
-Bild 7 video and controller, insert condition and VP-number than click start
+Picture 11 video and controller, insert condition and VP-number than click start
 
  
- Bild 8 clicking start
+Picture 12 clicking start
  
-Bild 9 if the light is red, the record has started 
+Picture 13 if the light is red, the record has started 
+
 3.	PEPPER
  
-Picture 1 first the experimenter has to start the “terminator”-function
+Picture 14 first the experimenter has to start the “terminator”-function
  
-Picture 2 The experimenter has to insert the word “startpepper” so that PEPPER ist connectet to the computer. Now the “vimeo”-controller opens automatically.
+Picture 15 The experimenter has to insert the word “startpepper” so that PEPPER ist connectet to the computer. Now the “vimeo”-controller opens automatically.
  
-Picture 3 The “vimeo” controller
+Picture 16 The “vimeo” controller
  
-Picture 4 settings for “vimeo” in the submenu default
+Picture 17 settings for “vimeo” in the submenu default
  
-Picture 5 “vimeo” - choose submenu animation
- Picture 6 vimeo – settings for the submenu animation
+Picture 18 “vimeo” - choose submenu animation
  
-Picture 7 vimeo – choose submenu display
+Picture 19 vimeo – settings for the submenu animation
  
-Picture 8 vimeo – settings submenu display
+Picture 20 vimeo – choose submenu display
  
-Picture 9 vimeo – click the button on the bottom of the left site
+Picture 21 vimeo – settings submenu display
  
-Picture 10 insert “env” – enter - “source pepper_shortcuts,bash” - enter
+Picture 22 vimeo – click the button on the bottom of the left site
+ 
+Picture 23 insert “env” – enter - “source pepper_shortcuts,bash” - enter
 PEPPER – Koordinaten insert: “say A1” (excample)
 PEPPER – Feedback insert: “yes” or “no” 
+
 VP introduction 
 Text VL: „Hello, my name is Hannah and I‘m glad you decided to participate on this study. First of all I would like you to read this schedule and to sign it.
 Now I would like you to read this description oft he robot, that is standing over there (VL shows the robot). Please go tot he robot and sit down in the oppoisite o fit to read the description. When you have read the description, I will introduce you tot he next step.“
