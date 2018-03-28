@@ -137,36 +137,66 @@ Questionaire
 Text VL: “If we are allowed to uüload the picture in PEPPERS (Tobis) database, we will doit in a few moments. Meanwile we would like you to fill out a short questionaire. Please do that in this room on the PC over there. When you are finished please come back to this room (shows control room) for enlisting in the voucher list.“
 
 Independent measures
+
 •	A vignette that describes either an anthropomorphic (vs. industrial) robot according to robot attributes. This robot is described with a low (vs. high) failure rate according to robot performance (Schaefer, 2013).
+
 •	Participants will interact with either an anthropomorphic: Pepper (vs. industrial: Tobi) robot.
+
 Dependent measures
+
 •	Cognitive trust
+
 o	Survey
+
 o	HRI: Participants follow the robot’s instructions during the task (vs. they want to make their own decision).
+
 •	Affective trust
+
 o	Survey
+
 o	HRI: Distance between participants and robot to take a picture with the robot
+
 Control variables
+
 •	PANAS (Krohne, Egloff, Kohlmann, & Tausch, 1996)
+
 •	Robot anxiety (self-generated)
+
 •	Technology commitment (Neyer, Felber, & Gebhard, 2012)
+
 •	Trust propensity (Lee & Turban, 2001)
+
 •	Anthropomorphism (IDAQ, Waytz, Cacioppo, & Epley, 2011)
+
 Manipulation check
+
 •	What was the failure rate of the robot that was described? (open question)
-•	How would you describe the robot’s performance during the study?
-(1: very low, 7: very high)
+
+•	How would you describe the robot’s performance during the study? (1: very low, 7: very high)
+
 •	What kind of robot you interacted with? (open question)
+
 •	To what extent was the screen a part of the robot? (1: not at all, 7: totally)
+
 •	Attributes of robots in general (self-generated, 1: not at all, 7: totally)
+
 •	Did you know the robot you interacted with, maybe from the media? (yes/no)
+
 •	Have you ever participated in a study with this or another robot? (yes/no)
+
 o	If yes, which robot was it in the study? (open question)
+
 •	To what extent do you think you interacted with the robot during the game? (1: not at all, 7: totally)
+
 •	To what extent did you except the robots advice? (1: not at all, 7: totally) Please justify your answer.
+
 •	Are you willing to play again with this robot? (1: not at all, 7: totally)
+
 •	Are you willing to play the game again with a different robot? (1: not at all, 7: totally)
+
 •	What do you think was the aim of the study? (open question)
+
 •	Did you recognize anything unusual, e.g. at the robot or in the apartment? (open question)
+
 
 
