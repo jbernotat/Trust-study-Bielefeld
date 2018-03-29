@@ -28,8 +28,8 @@ After having agreed to participate in the study and to have their data recorded,
  
 Vignettes (see file attached)
 
-Material Tobi: Laptops GE 04 und GE 02 (GE 02 ist austauschbar)
-Material PEPPER: GE 02 (austauschbar) und PEPPER Laptop und Router
+Material Tobi: Laptops GE 04 and GE 02 (instead of GE02, every other Laptop with inernet-connection can be used)
+Material PEPPER: GE 02 (instead of GE02, every other Laptop with inernet-connection can be used) and PEPPER Laptop and Router
 
 1. Construction in general
  
@@ -41,7 +41,17 @@ Picture 3 game and vignette
  
 Picture 4 position of the guestionaire
 
-2.	Videos in the CSRA Apartment
+2. Construction Tobi
+
+Use GE04 and connect it with a HDMI cable to tobi. Open "Folien Tobi" with Powerpoint. Expand the screen of the laptop, so ToBi can show the presentation.
+Use GE02 for the questionaire.
+
+3. Construction PEPPER
+
+Use the PEPPER Laptop and the router. 
+Use GE02 for the questionaire.
+
+4.	Videos in the CSRA Apartment
  
 Picture 5 Open the program for the trust-study (CSRA Apartment main computer)
   
@@ -61,7 +71,7 @@ Picture 12 clicking start
  
 Picture 13 if the light is red, the record has started 
 
-3.	PEPPER
+5.	PEPPER
  
 Picture 14 first the experimenter has to start the “terminator”-function
  
