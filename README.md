@@ -2,9 +2,8 @@
 
 Trust in HRI, Study I
 
-Hypotheses
+##Hypotheses
 
-Hypotheses to check manipulation:
 1.	A low robot failure rate results in lower levels of cognitive trust.
 2.	A low physical distance goes along with a greater level of affective trust. 
 
