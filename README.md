@@ -208,5 +208,7 @@ o	If yes, which robot was it in the study? (open question)
 
 •	Did you recognize anything unusual, e.g. at the robot or in the apartment? (open question)
 
+Watch the video to see a session of the study (condition_tobi_3p....)
+
 
 
