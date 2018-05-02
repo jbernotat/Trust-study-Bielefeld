@@ -95,6 +95,41 @@ Picture 23 insert “env” – enter - “source pepper_shortcuts,bash” - ent
 PEPPER – Koordinaten insert: “say A1” (excample)
 PEPPER – Feedback insert: “yes” or “no” 
 
+Here is the script that was programmed to control Pepper:
+
+function say() { rostopic pub --once /pepper_robot/display/tts std_msgs/String "data: '$*'"; }
+
+# alias yes='rostopic pub /pepper_robot/animation_player std_msgs/String "data: 'animations/Stand/Gestures/Yes_2'"'
+# alias no='rostopic pub /pepper_robot/animation_player std_msgs/String "data: 'animations/Stand/Gestures/No_3'"'
+
+alias yes='rostopic pub /pepper_robot/animation_player/goal pepper_clf_msgs/AnimationActionGoal "header:
+seq: 0
+stamp:
+secs: 0
+nsecs: 0
+frame_id: ''
+goal_id:
+stamp:
+secs: 0
+nsecs: 0
+id: ''
+goal:
+animation_name: 'animations/Stand/Gestures/Yes_2'"'
+
+alias no='rostopic pub /pepper_robot/animation_player/goal pepper_clf_msgs/AnimationActionGoal "header:
+seq: 0
+stamp:
+secs: 0
+nsecs: 0
+frame_id: ''
+goal_id:
+stamp:
+secs: 0
+nsecs: 0
+id: ''
+goal:
+animation_name: 'animations/Stand/Gestures/No_3'"'
+
 VP introduction 
 Text VL: „Hello, my name is Hannah and I‘m glad you decided to participate on this study. First of all I would like you to read this schedule and to sign it.
 Now I would like you to read this description oft he robot, that is standing over there (VL shows the robot). Please go tot he robot and sit down in the oppoisite o fit to read the description. When you have read the description, I will introduce you tot he next step.“
